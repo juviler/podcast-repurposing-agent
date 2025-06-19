@@ -58,9 +58,13 @@ def transcript_from_youtube():
 
         return jsonify({'transcript': transcript_text})
     except Exception as e:
-        print("Error while getting YouTube transcript:", str(e))
-        traceback.print_exc()
-        return jsonify({'error': str(e)}), 500
+        if "429" in str(e):
+            return jsonify({
+                'error': 'YouTube rate limit hit. Please try again later or upload a transcript manually.'
+            }), 429
+        else:
+            return jsonify({'error': str(e)}), 500
+
 
 # Generate repurposed content from transcript
 @app.route('/generate-content', methods=['POST'])
