@@ -1,0 +1,295 @@
+﻿00:00:00        Hey everyone, on today's show, we got the crystal ball. We're talking about the future of marketing. Every convo I have with a marketer these days is that how marketing isn't working as well, especially online marketing the way it used to. We're going to talk Vive marketing. We're going to say what is the marketing methodology of the future? What are the steps? How you organize your marketing team? What do you do to win at marketing in 2025 and beyond? That is the full show. We are joined by our very special friend and guest, Alex
+
+
+00:00:29        Lieberman, who's going to talk through all this with us. Let's get into today's show. All right. Hey everyone. We're here trying to answer a question that's on every marketer's mind. I don't get on a call with a marketer these days where they're not like, "Oh man, I'm getting less traffic from Google. Nobody's opening my emails. Nobody's downloading my white papers. All of this stuff just isn't working like it used to. What's going on? What should I do? What is this vibe marketing thing I keep hearing
+
+
+00:00:59        about? And we're joined by the one and only Alex Lieberman, friend of the pod. Uh, great marketer, great entrepreneur. Alex, welcome to the show. Great to be here. Thanks, guys. Yeah, Alex is our going to be our our third presenter here where we're just going to talk about what marketing is going to look like in the future. We've got some ideas. We're going to make some debates. Uh, this all started with Alex and I going back and forth on Twitter on like the idea of vibe marketing. And vibe marketing is
+
+
+00:01:27        kind of the early term for marketing in that AI era where you can just kind of have an idea, work with some AI tools and go from idea to an initial like marketing campaign, marketing asset, what have you. So, Alex, I want to start off because I know Kieran hates the term vibe marketing. So, I want to hear from him in a second, but I want to get your take on like what the is vibe marketing? What do people what should be people thinking about when it comes to like the next generation of marketing?
+
+
+00:01:56        Yeah, for sure. Um, so I think when I when I had originally posted about Vive Marketing, I feel like that was a few months ago at this point. I think actually I actually think we're very aligned on kind of our views of vibe marketing, but I'm happy to take aside uh and and argue for it because I think definitionally I I basically define vibe marketing as something different than I think what you guys would define as vibe marketing. Um so I'll defi I'll give you what my original definition was. So my original de definition of vibe
+
+
+00:02:31        marketing was less about like a direct connection to vibe coding which is this idea of like prompting some idea you have oneshotting it with whether it's uh you know cursor uh claude GPT perplexity whatever and then kind of that's it like you've kind of like created the workflow you want to build my original intention behind Vibe Marketing was actually like more about the vibes of your business and marrying your marketing um strategy uh and kind of like the way you market externally to what's happening in your business. So
+
+
+00:03:11        actually when I when I originally wrote about vibe marketing the way that I was thinking about it is that every company is going to have to market in the way that I'll use an example of like Beehive in the way that Beehive market uh did their marketing and still does their marketing in order to become relevant and earn mind share on the internet. And the way I would describe the way they did their marketing strategy was originally when Tyler was building the business, their product was very crude.
+
+
+00:03:44        They lacked a ton of product features that other email service providers had. And so in Tyler's mind, he was like, the only way that we are going to get customers for Beehive is to create this feeling of momentum where it feels like we're moving faster than everyone else. Otherwise, no one's going to have any incentive to use our product because every other product has way more features. So, at least he had to get to a place where he's like, "Okay, someone will become a Beehive customer because
+
+
+00:04:09        they have the confidence that a month or two from now we will be at feature parody with other products on the market." And so the way I originally thought about vibe marketing is literally just this idea of you have a as a software business or any business you have a product roadmap. And that product roadmap should literally be matched to a marketing blitz package that you are doing on the internet with a variety of tactics on a weekly or bi-weekly basis. So, we could talk about this in a little bit, but like that is
+
+
+00:04:38        the first marketing strategy I'm doing for DRO, one of my businesses, is we have a product roadmap that my co-founder uh has for the business on a weekly basis. We are marketing our new features on Twitter, on LinkedIn, we're doing product hunt launches uh all and and it's kind of a repeatable package that our intern who runs go to market at the business has built himself. And so the reason I think that's just an important thing to understand as a marketer is my view is is as software becomes more commoditized like software
+
+
+00:05:12        feels more like content than ever before where there's over supply differentiation is harder than ever before the only way to stay relevant or one of the only ways is through speed of shipping. Um, and so that's why I think my original definition of vibe marketing was basically based on the vibes of your business and the vibes of what your users want that informs your product roadmap. Your product roadmap is then used as a marketing vehicle on a weekly or bi-weekly basis. I think that's different from how you guys define vibe
+
+
+00:05:42        marketing. So, I'd love to hear your definition and then we can go back and forth on, you know, whether aligned with using this term or not. All right, Karen, give give us your definition. I obviously have one that you've seen, but give us yours and tell us what you dislike or like about the term VIP marketing. But just to be clear in what you're talking about, Alex, is that product marketing and speed of execution really matter because product is a core part of your marketing strategy because actually all of theformational content
+
+
+00:06:07        is going away into LLMs and so product is your marketing strategy. The problem I have with Vibe Marketing is Vibe Coden really meant a thing, right? So vibe for anyone who has coded on cursor lovable all these all of these different platforms which I have vibe coding is basically you can be much more spontaneous creativity and let let's see where the AI can take you right it's kind of like uh one of the original posts was the tab tap tab and cursor right you can tab and the AI will create the code create the code create the code
+
+
+00:06:32        so it's much more of a creative spontaneous feeling where you let the AI go wherever it wants to go and you kind of vibe with it and then you uh you kind of don't really follow the processes what I have seen online about Vibe marketing is it's what what people have taken for Vibe marketing is basically just automation with agentic workflow automation. Yeah. And so it's actually it's actually much more it's like just like normal marketing but it has agentic steps. So it's like crawl crawl Reddit
+
+
+00:06:59        get all these things enrich them do some agentic work and then send email that is just automation right it is not vibe the the equivalent of vibe marketing is saying to a uh AI I have a campaign idea dear to to reach Alex you know create with me what should we do and you're like hey that's a great idea try this try that blah blah blah blah and you end up with something that's like if we want to actually call I think vibe vibe coden really means something so we can't just like take the term and then say, well,
+
+
+00:07:27        that's something completely different for marketing. I think it's that's why there's no real one definition for marketing because everyone just interpret interprets it differently. But it really does make sense if you code with these tools. Vibe coding actually made a ton of sense. Totally. What people are really just talking about is like workflow automations that have existed forever, right? one of my other businesses which is called 10X and basically what we're doing is we're going into businesses and parachuting in
+
+
+00:07:53        and understanding their business deeply and then helping them do AI transformation and the most interesting learning I've had as we do interviews with executives at these companies is they don't necessarily know the difference between AI from other technology. A lot of times what they are asking to do to become more efficient actually has nothing to do with AI whatsoever. Automation, it's just automation. Exactly. Deterministic. Yeah. Yeah. Well, so I I think that's interesting. Uh and I think that's the
+
+
+00:08:23        biggest problem most people have with where marketers going is they're kind of they're too in the weeds of the technology and not enough in like the changes that that technology is having on humanity and like kind of the playbooks to take advantage of that change, right? And and I I I wrote a big memo that Kieran has seen on this topic. And like the the kind of I think defining sentence or point of view that I have on this is like that the next era of marketing, whatever the heck you want to call it, will not be defined by who
+
+
+00:08:51        can publish the most content, but by who can express the most taste, act the fastest, and establish the most like resonant identity with their audience, which was a lot of what you were talking about, Alex, right? like I I don't think that's that far off from what you were talking about, but that's very different than like AI workflows. And that's what I'm trying to like really anchor everybody in this discussion in the show today is that the world of just like publishing a bunch of content is gone.
+
+
+00:09:19        Yeah. Like that is not going to work in the future. What's interesting to me is, you know, I was just talking a minute ago about software and this is actually why I think there's so much similarity now in software and content. um is because if you were to ask me like what are the moes in software today I would say there are four modes there is what I would and and you guys are going to have a strong view on this but just bear with my lack of definitional rigor um the first is what I would call brand and
+
+
+00:09:49        wrapped in brand I would say it's UX taste and uh customer obsession okay so I'm wrapping it up in there we're buying that the the the second is speed, speed of putting things out into the world. The third is unfair distribution. And the fourth is data. Having data that actually makes you better at doing basically everything in one through three. My view is that is what's going to make the next kind of like generation of software businesses build sustained advantages. And and what I'll say is there are certain software businesses
+
+
+00:10:25        that truly do have a technological moat now. But I would say that is like the vast m the vast minority of software businesses. If you were to ask me what does differentiation in content look like? I would argue there is some difference probably that we can argue but they look very similar in terms of modes and content. Yeah, I think I I like your list of four K and you may or may not agree with what I say. I would swap speed for learning. Learning is actually the benefit of speed. speed is how you learn and how you learn faster
+
+
+00:10:58        than everybody else. But it's like learning loops and basically iterating and making faster progress uh is it might I might swap out speed for that but speed for learning but I I don't know. Kieran, do you buy what Alex is saying there? Hey everyone, uh we'll be right back to today's show. But first, we have a very very special offer for you. If you want to learn more about Vibe Marketing, we've put together a special guide. We've dropped the ultimate guide to Vibe marketing. We're giving you the exact frameworks people
+
+
+00:11:29        are using in the early days of Vibe marketing. We're showing you how to build campaigns and content that are actually resonating and performing well in this new AI era. We're helping you figure out how you build micro audiences, how you detect those emotional signals in your vibe marketing campaigns. It's really remarkable and that's how you actually drive real results and you don't get stuck in the bland, forgettable content world. And so you're going to want to get this. You want to get it right now. You can scan
+
+
+00:11:58        the code up on the screen or you can click the link in the description below. Uh I highly recommend checking it out. Now let's get back to today's show. I also think that's generally right. Like I think distribution is always a moat company's hat, but it's really hard to have a kind of moat around distribution because of the way things are collapsing. I I think the biggest uh moat a company will have is always going to be network effects and it really but like network effects are very dependent
+
+
+00:12:22        upon the product you build. I think if I was in the product building game, I would want to figure out how to build network effects into my product because I think that is like the hardest thing to disrupt and maybe switching costs, but even switching costs like one of the crazy things to think about is like switching costs were definitely a moat, right? It's like really hard to like pull all my stuff out of this software and bring it over to this software. But actually, if LLM's become the interface
+
+
+00:12:44        to software, right, we saw Zapier has launched in OpenAI's latest uh a response API. It's available in cloud 4. So now you can actually access and do work in 8,000 apps via just sitting in OpenAI, sitting in cloud. So if that's your interface, switching cost actually may not be a mode either because you can probably tell the AI to switch a lot of your stuff over to one of those apps. But I think network effects, which is like the product becomes better each time another customer joins. So every
+
+
+00:13:12        customer that joins actually enriches the experience for the customers who are already a part of that uh product. That to me is a really hard thing for anything to disrupt. Yeah. I I totally agree with that and the only thing I would add to network effects is I totally agree with like the historical definition which is every new user makes the product better for the previous user and I think that's that's always going to create sustained advantages in businesses. But I would say the other thing that creates network effect now is
+
+
+00:13:39        data because the quality of your data is the quality of the output of an AI tool. And so just again using a quick small example with DRO, it's like in a DRO studio, the quality of the interview you're getting with the AI interviewer is going to be dependent on your previous studio sessions because it's using all previous knowledge of every conversation you've had with it to ask your questions in the next session. I think there's a playbook for companies to build tools because the cost of code has become so low that even if their
+
+
+00:14:09        core product doesn't have network effects that they can build tools that acquire data that enrich their product right like I would actually build tools with the only objective to get unique data sets into into my product. When I when I think about what uh Darm mesh has built with um what's it called again? Agent agent.ai agent AI. Yeah, agent.ai. Like I just think about basically because the cost and complexity of building software is almost zero now like lead magnets as we've historically known them are just like software tools
+
+
+00:14:40        now or like like we're going to get into that. That's part of the show today. I I I want to talk I want to talk about that all those things you said especially data UX and usage right you kind of had UX bundled in but like people have to use the tools to you know like if you don't use DRO in your example Alex it's not going to have the context it's not going to be as good of experience right so usage and the user experience to drive usage becomes very po very very important even more so in technology companies okay I made this
+
+
+00:15:08        image because and I want to test it on both of you in terms of what I think has changed in the world. So, we had this like inbound marketing era um for the last 20 years and in that like awareness was kind of hard like you had to spend a bunch of money to ad agencies and stuff and place those ads and it was like kind of hard kind of expensive but visits like visits was pretty good like you could get a lot of visits because Google was a really great tool for attracting high quality visits. Your lead
+
+
+00:15:36        conversion of those visits was was okay. Hey, you could use marketing automation and get some of those and then you had an okay customer conversion rate. Now, I actually think awareness is a lot easier because you have these AI tools that allow you to create really compelling social videos. You have tools like Icon and Capsule and captions. You have influencers that if you're a if you're a niche company, you can actually get pretty big awareness in your market relatively cost-effectively relative to
+
+
+00:16:04        what you could have done like 10 years ago. This is one of my pitches. It's way way harder to get visits. Visits for everybody are shrinking. Visits have gotten much much harder to come by. Leads the conversion rate of those visits actually getting a lot better because you have AI personalization. We've seen huge success with like AI generated onetoone onboarding emails, nurture emails, SMS, WhatsApp, whatever. We've seen the conversion rate of the people who do express interest to be a lot better. And we've seen the customer
+
+
+00:16:35        conversion rate be a lot better too because we're able to deliver really bespoke AIE sales experiences. And I think most companies are going to be able to do the outreach engagement sales process way better with AI. And so I just think the fundamental shape of how a business funnel works and how it and how businesses grow is changing and has changed a lot from what it used to look like. And I guess my question for both of you is like do you agree with this? Do you disagree with this? What's your
+
+
+00:17:05        take? Yeah. Well, one question I would have that kind of is informing whether I agree with this or not is like basically this new funnel that you're describing is enabled by like new tooling, AI, automation that makes the ability to like do more and work faster with less. It accelerates that. And and and the reason I I'm saying it in this way is because my question is is this is what we've seen happen with content over the last, you know, 5 to 10 years and I think it's going to accelerate. I think it's what's
+
+
+00:17:46        going to happen with software is like there's just more noise than ever before. Like to me, noise is going to continue to go up. So what I'm curious about is how you think awareness grows when noise grows exponentially. The awareness phase isn't just like hard and noisy. It's far easier to grow awareness in that space if you're a creator or individual than if you are a brand. So, it's not just that it's getting noisier. It's not that not just that there's less channels, but the channels that actually
+
+
+00:18:14        work, you know, Substack is like one of the few sites that has actually grown in organic traffic, but I do wonder how susceptible they are to catch. But things like Substack, things like podcast, things like YouTube, they are much better for individuals and brands. So brands don't just have to deal with decline in channels in that awareness space or additional noise because everyone like if you use AI correctly, you can go from like subpar content creator to like above average content creator. So everyone is creating much
+
+
+00:18:45        more content, but they also have to deal with the fact that channels are not great for brands in the first place. Like these channels that are actually working are not great for brands in the first place. And so I think that uh there's going to have to be a change in the way brands even think about how they acquire attention and awareness within those channels. The cost to create the content to drive awareness has gone way down. The cost of some of those channels has gone way down. Influencers are way
+
+
+00:19:08        less expensive than Facebook CPC, Google CPC, TV ads. Like if you are the average small to mid-size business, if you're the average 100 person business, it is way cheaper to go and get in front of the 100,000 possible customers you have in the market and help them understand your brand and your like core benefit for to them than it it was 10 years ago. I just is what I fundamentally believe. Yes, it's going to be more complicated. Yes, you have to take different routes to market there. It's going to be
+
+
+00:19:40        noisier. But I I do think there is some advantage there because you have all these marketers who've kind of the last 10 years gave up on awareness marketing, right? Like most midsize businesses are just like, I don't care about awareness. I'm just going to siphon traffic from Google and Facebook and ads and like that's going to be what I'm going to do. But you should say why they give up an awareness. Like this is the big problem. They give up an they didn't give up an awareness, but they can't equate
+
+
+00:20:03        awareness into revenue. And so like that's the missing missing part is like what what does a a marketer is still going to go through this messy middle phase where the CEO and the boss and the manager and the company they don't realize that marketing has drastically changed and they're going to show up to these meetings and they're going to be like where's my clicks that turn into revenue and the marketer is going to go I'm going to get you awareness that actually causes buys to happen elsewhere
+
+
+00:20:26        and the people are going to say you're fired bring me in the bring me in the next marketer and I think that like it's the disconnect between awareness and revenue that is going to be really really hard. I mean look even I would say our biggest our biggest challenge even with story arb is like showing the connection between creating what I would call more editorial content and driving revenue. And I think we are getting better at showing that connection. But to me, like basically what happens is we talked to
+
+
+00:20:57        head of marketing at a $10 million plus B2B company, and they're like, "Guys, if you want me to sign on for a six-month commitment at $12,000 a month, I need to be able to go to my CEO and say how they're going to get multiples of revenue out of this content investment." And so yeah, I think one question to that and and and I don't think that necessarily changes the funnel you've created, but like what is going to change people's is there anything to suggest that that most businesses skittishness to awareness marketing is
+
+
+00:21:31        going to change at all? What alternative do they have? Well, there's two things. I do think AI and neural networks are going to make attribution for further from transaction marketing better. I I I I fundamentally believe that over the next five years that's going to transform a lot. The second thing is like what alternative do they have in a world where the alternative AI search is not going to be very attributable right like if they lose Google ad effectiveness Facebook ad effectiveness and Google search
+
+
+00:22:03        effectiveness what's the alternative we have lived in this era like we we live like p pre like the internet yeah people bought billboards and yellow yellow page ads and I I also don't think it's a huge like open AI could build a true analic model for the like the internet in a way that has not done be done before because they're able to grab a lot of the data in the terms of people are searching for something and then they can see people are visit they can actually do some cool things to connect things together but
+
+
+00:22:34        like we're a ways away from that I think they released their ad platform long before they released the analytics but once they release ads for premium tier which I suspect will come pretty soon because they hired the ex CEO from Instacart they are going to have to have analytical tools and I do think there's that may actually help us piece together these different interactions. But I I actually do think I I'll pause at this Alex and that uh I think you marketers have to create some sort of awareness.
+
+
+00:22:59        But maybe the change is we have had to create awareness at a kind of grander scale. We have to say here's content that we think appeals to this whole cohort of people because the unit economics wouldn't allow us to create individual pieces of content for each person. But I do think one of the changes that brands could go through is we could have these micro audiences. So instead of marketing to like 200,000 people, you're marketing to 200 people uh I don't know what the math is like 10,000 times. Like the the pure example
+
+
+00:23:28        of this is in B2B you have se you have these kind of segments and then you do dynam dynamic web personalization, right? Someone comes to your homepage, oh you all look kind of like this segment and so we change the headline. Dynamic web personalization has never been that good. It's never worked that well. What the difference in micro audience is you could take a 20 20 companies who all have very similar characteristics and actually create websites like micro sites for each company because the cost of code is like
+
+
+00:23:55        free and so I do think that you could still drive awareness but in a far more precise way and you probably don't go after half of the people you used to go after but you have to be much more precise and targeted. I guess my one push back on that is not about if that will work, but how long in the future it's going to take for that to work. Because what I would just say is like to target these micro audiences, you can't just rely on AI right now. Like in my mind, a human is needed in the loop to
+
+
+00:24:24        make sure the content is actually really good. It depends on what your standard for content is. And so, yes, you could hypothetically create hundreds of micro sites for hundreds of different accounts that you're directly targeting, but at least my view is you still need a human who's going to be checking over and kind of editing the copy and the content you're creating for all of them. And so, I still think a human is the bottleneck there. And sure, at some point it will get good enough. I would just argue
+
+
+00:24:49        today it is not. Do I don't know. Do we think that's true? I want to have that a debate for a second to see if that's true. Um, especially with Cloud 4 Opus and GPT4.5, like there's some the writing is really good. And I guess my point is like let's say I created a micro site for for DRO or for one of your businesses, right? For these companies, right? And I had a I used Manis or I used, you know, Skyward or one of these agents. And I go do a full scrape of that site. I get a deep detailed breakdown of their strategy. I
+
+
+00:25:27        completely map it to the features. I tell them exactly what should what they should do. I have that on a public facing page. I have that in outreach communications. That is way better than the average BDR is going to do today. But you still I I agree. But I I agree with Alex that you need a human in the loop to check that stuff. But I will I will I will pause it to you, Alex. first version of this is going to be you're going to buy services from me. Those services are going to be autonomous agents and you're going to buy an
+
+
+00:25:55        account manager and that account manager is going to look over and train those autonomous agents to get better each and every time. So you're right that there will be a human in the loop but that human in the loop that will actually be an account manager for you and so over time you'll be able to get much more back from those autonomous agents. But if you're saying like the micro site, if I had I I would I I only need one full-time person working each week to do that probably, right? So the actual
+
+
+00:26:19        human capital is probably still not anywhere near what you would imagine or would it would have been in the past. Yeah, I I agree with this. And I actually think maybe where where I'm thinking about it differently or not necessarily the right way is like what goes through my head is like what is actually on this micro site like uh like what is the actual content that that is on it? If the micro site is literally just like I don't know product marketing or a case study for your business that is kind of custom uh to a specific
+
+
+00:26:50        company or prospect that you're selling to. Yeah, I buy that. an agent who's like scraped all of your companies can create that. I think what's in my head is like, okay, if I wanted to create like a a really, let's just even say like an editorial newsletter or let's just say like that is truly the purpose is like content is the product. The the goal is not to drive a lead right now. I just think the almost like the more creative you get with the content, the the less that I see that AI is good enough today. And and my best example
+
+
+00:27:22        for that is when I just think about the the be the best content I've consumed on the internet over the last month and you ask me how much of that what was the percentage that AI was involved versus human. I think the more creative the content is, the more that the human is still involved. I I think the three of us can agree on this this and I'm going to restate what you said in a slightly different way that the further AI content gets away from the product buyer use cases and out to more broader ideas,
+
+
+00:27:51        the worse it is and the more humans need to be involved. I think I think we all I think we all agree on that there is some efficient part of that spectrum right now where I think you can deliver a lot of value with no or like Kieran's account manager human. Okay. I I pulled up I pulled up this image. I want to make sure we we talk about this. This is a little bit more of like the before and after. You were talking about how like like gated PDFs and lead magnets were kind of dead, Alex. It's like I think we
+
+
+00:28:18        go from gated PDFs to like custom web apps. Like the analogy I used here like imagine you were a landscaper. It's like oh cool. Well, here download this guide on like plantings for New England or oh here's this thing. upload a picture of your backyard and we'll mock up a design for you for free. Yep. Right. Like that's that is like the era that we are about to end that enter into that most people don't see yet. That my my take here is that more companies CAC are going to go to like API calls to
+
+
+00:28:51        generate to generate uh code or to generate outputs from AI than uh most people think right now. Like we used to obsess about like our SEO checklists for publishing content and now we're going to be like, "Hey, we're going to have these style guides that are going to train AI for the perfect output for whatever channel we're working on." We used to have these month-long nurture campaigns and now it's like, how can I have these like really fast but deep interactions where I'm hitting you across multiple channels with ads with
+
+
+00:29:20        like a onetoone AI generated message just for you. I think it's going to be very different in terms of both the timing and the personalization of the message. And so I I just think that we are moving into a completely new era of marketing. And I wanted to do this show today to start kicking that off for all of our viewers because if you're watching this and you're going to follow along over the next six to 12 months, you will be light years ahead of the rest of the world. I totally agree. I think the hardest thing like for a
+
+
+00:29:49        marketer who's listening to this or watching it is like let's say they buy what we're saying they're like okay how do I do it now and actually this is kind of a meta thing but this is where I think differentiation can happen with AI content right now like is the more tactical you can get the better because I think there's this huge gap people have in like excitement around AI versus application and it you know just to kind give props to Kieran. think that's what Kieran does really well is how do you
+
+
+00:30:20        make this stuff as actionable and as possible and one thing I think is important to to share is like what why is it why is it that like the custom web app now is going to be such a good form of lead genen for companies my argument would be that 99% of human beings are not going to be getting into the weeds of LLMs or AI in the way that even say Kieran is with models and prompting right now and so my view is is like if you basically have a smart prompt that you've taken time to develop. That is kind of all you need to add on top of an
+
+
+00:30:56        LLM to then make it valuable for people. And so just to give you the example of like we haven't done this for story ar yet. I want to do it. But it's like what if we just have a web app where any head of marketing at a company can go to this site we create and it basically creates a the content strategy like 80% of the content strategy that we would deploy for them at story but gives it to them free. So basically comes up with who are the execs you should be interviewing forme interviews that you turn into
+
+
+00:31:24        content on your site. If you had to create an editorial newsletter for your ICP or for specific personas, what would potentially be a template for that newsletter and like you just get that as an output by putting in maybe your company's URL and the LinkedIn profiles of your executives? I always think that the value line continues to go up, which you're saying I think you have to give away much more value to gain interest even in whatever you offer for free. Just a couple of quick points because I
+
+
+00:31:51        want to make sure marketers also leave with some positivity, right? And so what going back to going back to the kind of positivity the side by side for Kip um you know we should think about OpenAI's incentives here right open AI are going to have a premium tier that they already have. They're going to have to they want to monetize that via ads. To monetize it via ads I think they will have to start to really think about how they send traffic to publishers. I have seen them drastically change the way they're
+
+
+00:32:18        treating links in uh chat. I don't know if anyone else has, but they're starting to do much more explicit modals to show yeah the websites to try to get you to click. Also, I suspect that's pretty great for their copyright infringement lawsuits coming up as they can show that sending publishers. Oh, yeah. And so, and so we even see this internally. We've seen a big increase in traffic from LLMs over the past five months. Now, will that ever be equivalent to Google? No. Is Google just released AI
+
+
+00:32:43        mode, which is like really difficult for marketers? Yes. It's beta now. Will come out pretty pretty soon. And so I know you're going to go through this, but like all of the value is acrewing in the how you convert more from less and how you be much more creative in the ideas you initially have. And I think like that's where if I was a marketer, I'm like, okay, well, I can be much more creative. I can be much faster. I can speed of execution goes up and I can convert way way more and I can kind of
+
+
+00:33:07        optimize for the LMS in the hope that over time that traffic goes up because OpenAI are incentivized to give publishers some amount of traffic. Yeah. what what so I'll just share something and we can talk about it this time or next time but basically as I'm hearing us talk about this I'm trying to like think through the lens of like a head of marketing or a senior marketer at a company and like what questions are coming to mind for me and it's like basically there's three things that come to mind. It's like one the stuff we're
+
+
+00:33:34        talking about like how kind of the marketing mix and what marketing looks like as it changes. How do you tactically do those things? The second is how does the design of my org change based on all this? I get that question so much. Yep. And then the third piece of it is as the as the design of my org potentially changes, how are the skills that I'm looking for and the people I hire changing? All right, let's let's talk about those because I I I got a pitch. I I built I built this. I've gone back forth with Kieran a little bit.
+
+
+00:34:03        It's not perfect, but it's like a Voint one and it's like whether you call this vibe marketing, whatever the the heck we'll call it, we're going to call it something and we'll we'll we can debate that. But there's going to be a new era of marketing. And I think there's four steps to it. And I think that these steps operate in kind of a loop and you can apply it to anything. I think the first step is expression. And it's like one of the things these AI tools are remarkable at is helping you go from
+
+
+00:34:28        idea to a an asset like lightning fast, right? And so to kind of go back to your questions, Alex, if I'm a marketing leader, I'm like, "Oh, I need to get my team the right tools." And so that's like OpenAI, Claude, HubSpot, Canva, like the the tool set that allows me to go from ideas to creation really, really fast. And I think there are going to be things like synthetic audiences where we use AI to basically say, "Hey, I've got this idea. I want you to run it through an AI audience to see if it would
+
+
+00:35:01        actually work the way I think it would work. And if it does, then I'll polish it up and I will make it awesome." Right? And so I think that's the first step that you're going to see. And then once you have these assets, the thing that I think Kieran, you've learned a ton is that like the micro segments, the onetoone personalization matters a ton. And so you have to tailor those assets in a way where an LLM can generate a bespoke email, bespoke landing page, website, whatever it may, whatever the
+
+
+00:35:31        asset is for your segment of customers, right? So if I've got 200 manufacturers I'm trying to reach, I need 200 very unique emails that are going to go out to those folks. And I need marketers who have data skills. I need marketers who can train the LLMs, that can do annotation, that can basically take a human in the loop to create a really good unsupervised tailored message experience. And by the way, I think if I was a marketer, I would consider having my team potentially organized in these buckets or something of that. It's still
+
+
+00:36:04        still early. And then you have to like activate, distribute. I haven't decided what you would call it yet, but it's like, cool, now I have all this. I need to go work with influencers. I need to publish the content on the web. I need to I need to put my ad campaigns live. I got to go get it all out in the world. And then the last step is, hey, the one thing that we've talked about as a theme on today's show is speed and speed of learning. And so as soon as that stuff's out there, I got to start getting data.
+
+
+00:36:33        And the great thing about AI is if something's working really well, I can lean into it. or if it's not working that well, I can fix it and just launch a new version or new iteration really quickly. And it's not going to be these like set it and forget it campaigns of the old marketing world. It's going to be like these very high-speed high evolution campaigns. Uh that's my take. Kieran, anything you would add that I missed in this we we we got to spend some time in San Fran last week going through this. I think you and I I think
+
+
+00:37:01        agree that the first of all, I think that this is closer to VI market much closer to V market. you know, even you you know, even if this was closer to the V market, I just don't like the term V market, but that's a whole I'm not sure I do either, but I just haven't figured out how to win yet. But um but uh I think all like you the one that is the hardest is the activate because if you are I think if you are um I think there's a small subset of brands in B2B that community and influencers is applicable for and there's about 80% of
+
+
+00:37:30        brands that are no offense to B2B born and actually influencers and communities will not be applicable to and I think I think we you and I when we rifted this like the activate one is the hardest one right like if you Actually the the thing I posted today is 80% of all buyers in B2B start their journey with Google and there's a reason because it's a very likeformationally researched thing right and Gartner predict by 2027 95% start with an LLM and actually if you look at the buyer journey in a little more uh detail 70% of uh the B2B
+
+
+00:38:05        buyer journey today is done off-site I suspect that when you switch to 95% LLMs it's 95% is done off-site that is problematic and the average buyer committee is like seven people. So, it's a really messy like way to um to purchase software. And so, that activate thing I think is going to be the one that is going to really have to have some hard thinking in that how do you make it applicable for the average company selling like manufacturing equipment in middle America, right? I think that's the one that is the hardest
+
+
+00:38:34        one. Yeah. So, one thing I'll say and so I agree with this. I guess my only question is those four steps you outlined, expression, personalization, activation, distribution, get data, learn, and iterate with speed. I guess my question is like how is that any different from how things have always been? Like if you were to ask me what is the journey of putting things out on the internet, I've always thought of it as five steps. ideation, creation, refinement, distribution, and insights. And so I guess my question is I don't
+
+
+00:39:12        think anything's different. I guess the the the difficulty in the way you execute on each of those steps just changes. The how is very different, which is what I what I think what we're trying to push on because it's like it's not personalization. Personalization's dead. You have to have really great data and turn that data into highly onetoone content. on this tailor stage. Expression has completely changed. The biggest thing that's happened here in Expression is you used to need an army of specialists. Yep. Right. Like, oh, I
+
+
+00:39:40        need my designer. I need my video editor. I need my uh videographer. I need all these people to do to get something out to the world where it's like, I can now do a lot of stuff. Just me as one generalist. I can make a lot of assets and 12 months from now when the techn is way better, I'll be able to make almost everything. Yep. Right. And like that is massively massively different. The channels for distribution activation have changed a lot. Like they're less changy to you because you live on the internet and you're in the
+
+
+00:40:11        pulse of everything to the average marketer who's just been doing SEO and email. Yeah. And like Facebook ads. Wow. The how you activate and reach your audience has changed dramatically and the pace at which all this has happened. Right. It used to be like, oh, I'll kind of look at the data. Oh, this is good. I'll show it to my boss and we'll move on. Now, it's like I have to look at this data because I have to update the assets in this campaign in real time to actually get a good return on my time and effort. So, I think that
+
+
+00:40:42        I'm not sure I have it yet, but like this is like my V.1 pitch of like, oh, I do think things have changed. How do you think that changes? How do you think that changes the general uh the composition of people in a marketing or or more specifically when you hire a marketer say two years from now versus two years ago the skills you're looking for? Um how does that change things? Kieran, what what's your what's your answer to the skills question? I'll let you take the first shot at this. This is a this is a doozy. Well, you I Okay,
+
+
+00:41:14        this is this is I would say that one thing software has done is turn marketers into software admins. And so I have been terrible. I could be kind of spicy and say like how this changes things, you actually have to do marketing. Like I I actually think I I've done I actually think I get to spend all day I way more time marketing because I can just execute and go much faster. Plus I'm way more self-sufficient. I actually don't need to ask a bunch of people for things. I think to be honest with you,
+
+
+00:41:43        if I'm like I actually did a post around this. I think you have to be at the polar opposite of extremes. And if you're can do both things, you're really in a small group of people that will do really well. I think you have to be at the uh outer edges of creativity, right? Ide idea ideas and great ideas uh are still going to shine through, right? AI is you're you can still have better ideas than AI. The execution of those AI ideas really matter. And then the other opposite end of the spectrum, you have
+
+
+00:42:07        to be the most technical process systems thinker within that team because AI needs to be integrated across all of your workflows. And you actually have to think much more like an engineer in how you actually think about how AI could be deployed across those workflows. And somewhere around that is curiosity. So that's to me it's like move move marketers away. Move marketers back to the craft. If you're going to practice a craft, be the most creative person you can be. And you to do that you have to
+
+
+00:42:33        be in the game. You have to you have to earn your stripes, right? Because if you are creating content, if you are doing all of these things and you know this better than anyone, you're an entrepreneur, you're a content creator, it 90% of what you do in content fails like and so you just have to earn your stripes. And then the other part part is like I think the people I see doing really well now are much more like engineers. They they they are marketers. They like they are marketers, but they act much more like engineers. And so I
+
+
+00:43:00        think you're going to be polar opposites. I'm going to say something spicy and I am curious if you guys agree with this, but to me more than ever before, like if I'm hiring a marketer next year, the amount of marketing experience that the person has matters less to me than ever before. In the same way that when when at morning brew we would hire someone to run Morning Brew's Twitter. I actually could not have cared less how much social experience you have. I just cared about how creative are you and how much do you live on the
+
+
+00:43:35        internet? And so to me, if like if basically everything you've just showed about this like these diagrams of where marketing is going and then Kieran what you've basically said is you want to live kind of on the barbell either being have incredible technical chops or be highly creative. I just wonder why previous experience of how marketing has been done in a fundamentally different way than it's going to be done over the next 10 years to me by definition the value of that experience goes down if
+
+
+00:44:03        that exper if that experience is not going to inform the tools we're going to be using over the next 5 to 10 years I think Alex on what you were saying there though if you look at the last like 10 to 15 years of marketing right what was rewarded was management can I manage people and can I manage software right like can Can I be an admin? Can I know the ins and outs of this product or can I manage all of these humans and orchestrate them and organize them to do these really comp like complex manual
+
+
+00:44:31        tasks? Right. Like that's I think from my experience what a lot of doing marketing and leading a marketing team was like over the last 10 to 15 years. To your point that's changed dramatically. The only thing you actually need to manage now is AI and agents and they're way they're they're in some ways a lot more self-sufficient than at least traditional software and subscription software, right? And so that is like a big big shift. The second thing here is you're almost penalized in this new world for being too
+
+
+00:45:05        specialized. Everything's so new. Everything is changing so much. the generalists are going to to do well over the next five to to seven years. Like the broader your skills, the broader your understanding of the world, your market, what people like, what people dislike, and your ability to translate that into stories and content and applications and agents for people is going to be incredibly valuable. It doesn't mean I still think the foundational skills of storytelling of of being of being able to interpret data
+
+
+00:45:37        and get the right insights out all those things that are have been core to marketing are that. It's like if you're going out and hiring a marketer right now, are you going to go hire somebody who is like spent the last decade doing like email marketing and deep deep in the weeds of email marketing or are you going to hire a more generalist profile of person who can take on more and kind of be that account manager across agents and a portfolio of work? You're probably more likely to hire the latter than the former. Correct. Yeah.
+
+
+00:46:06        In my mind, being an exceptional coordinator who has curiosity and a desire to learn these tools at the deepest level paired with the most creative people who can provide kind of creative and idea firepower to me is like what the balance looks like to Kieran's point. Yeah, I think it's all about curiosity. I think I think the reason we want to do the show today is because I think the three of us talk a lot and marketing is changing far more and far faster than anybody actually realizes it. Like
+
+
+00:46:38        everybody's feeling it on the edges, but it is like existential and at its core the foundations are there, but everything else outside of those foundations is basically getting rebuilt, right? Yeah. 100%. I this is like a horrible analogy to use, but I'm just gonna use it, which is there's like the old story about like is is it like um a frog like you put a frog in a boiling in a pot of water and right like it you just turn it up and it doesn't die because it's and it doesn't jump out because it's gradually getting gradually
+
+
+00:47:12        getting warmer. If it's boiling to start, the frog jumps out. Right. Exactly. And to me that's that is kind of what's happening to most people right now. I think so too. And so, yeah, I guess the moral of this episode is make sure people realize that the water's getting to boiling before it actually boils. Yeah, I I think that's what we're trying to say is that things are changing much much faster than it feels like. Y and we tried to paint some perspective on the future. And if you're thinking about trying to be an early
+
+
+00:47:39        adopter and an early wave of that change, here are some ways you should think about it and some ways you could operate around that. We'd love to hear in the comments questions, followup ideas for future shows where the three of us talk more about this. Please, please comment down below. But Alex, as always, it's awesome to have you on, my friend. I hope you are well and we'll we'll see you on the show again here soon. Thanks so much for having me. Awesome. Thank you. This data is wrong every freaking time.
+
+
+00:48:08        Have you heard of HubSpot? HubSpot is a CRM platform where everything is fully integrated. Whoa. I can see the client's whole history. calls, support tickets, emails, and here's a task from three days ago I totally missed. HubSpot grow better.
