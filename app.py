@@ -18,7 +18,7 @@ app.config['UPLOAD_FOLDER'] = 'uploads'
 os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
 
 # Enable CORS for frontend requests
-CORS(app, resources={r"/*": {"origins": "http://localhost:3000"}})
+CORS(app, origins=["https://podcast-repurposing-agent-frontend.onrender.com"])
 
 # === Routes ===
 
